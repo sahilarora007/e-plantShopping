@@ -13,4 +13,3 @@ const store = configureStore({
 
 // Export the store for use in the app (e.g., in <Provider store={store}>)
 export default store;
-
